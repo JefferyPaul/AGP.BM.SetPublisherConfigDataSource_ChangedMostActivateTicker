@@ -1,0 +1,5 @@
+- 从db获取最近两个交易日的主力合约和次主力合约，合并，生成all_using_tickers.csv
+- 读取bm的strategy config文件，将对应product的配置文件进行修改
+- 将all_using_tickers中的ticker依次填写到相应的product的配置文件中
+- 如果文件数量少于ticker数量，报错；如果文件数量多于ticker数量，则多出的文件统一使用最后的ticker
+- 如果需要修改文件，同时删除cache文件

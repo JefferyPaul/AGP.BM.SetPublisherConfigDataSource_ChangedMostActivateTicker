@@ -1,0 +1,9 @@
+{
+  "email": "auto-mail@atsasset.com",
+  "pwd": "100Hk$",
+  "host": "smtp.exmail.qq.com",
+  "port": "465",
+  "to": [
+    "jeffery.pu@atsasset.com"
+  ]
+}

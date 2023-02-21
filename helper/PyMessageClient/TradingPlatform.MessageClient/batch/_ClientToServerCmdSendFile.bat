@@ -1,0 +1,1 @@
+TradingPlatform.MessageClient.exe 220.231.191.82 11005 sendfile "Jeffer_test" "\\192.168.1.39\Allocator.20006.CnCom.Id807012.CnOilS2L1\2.Output_AllocatedData\Data.csv"

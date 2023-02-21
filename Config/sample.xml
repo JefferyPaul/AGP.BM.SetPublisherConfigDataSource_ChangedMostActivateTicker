@@ -1,0 +1,15 @@
+<DataSource>
+    <Name>ni2301.SHFE</Name>
+    <Type>Ticker</Type>
+    <Mode>NormalData</Mode>
+    <Id>1</Id>
+    <LotSize>1</LotSize>
+    <IsRatio>false</IsRatio>
+    <Commision>3</Commision>
+    <ExecMode>Normal</ExecMode>
+    <Formular>
+        <Coefficient>1</Coefficient>
+        <Constant>0</Constant>
+        <Operation>Multiply</Operation>
+    </Formular>
+</DataSource>
